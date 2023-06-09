@@ -1,0 +1,17 @@
+[
+    {
+        "name": "aws-s3-output",
+        "fields": [
+            {
+                "name": "static-website-url",
+                "type": "string",
+                "value": "${url1}"
+            },
+            {
+                "name": "s3bucket-url",
+                "type": "string",
+                "value": "${url2}"
+            }
+        ]
+    }
+]
